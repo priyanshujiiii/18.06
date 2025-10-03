@@ -41,7 +41,7 @@ This course introduces the fundamental concepts of linear algebra and demonstrat
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/18.06-linear-algebra-jax.git
+   git clone https://github.com/priyanshujiiii/18.06.git
    cd 18.06-linear-algebra-jax
 
 2. Install required packages:
